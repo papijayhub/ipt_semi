@@ -1,0 +1,36 @@
+.bck{
+    background-color: green;
+}
+.hero{
+    margin-top: 30%;
+    background-color: goldenrod;
+}
+h2{
+
+    font-size: 45px;
+    color: white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', Verdana, sans-serif;
+
+}
+
+.nav-it{
+    position:absolute;
+    left:30px;
+    top:10px;
+    color:white;
+    font-size:20px;
+ }
+
+ .add{
+     position: relative;
+     top:10px;
+ }
+ .nav-link{
+     font-size: 19px;
+     font-weight: bold;
+ }
+ .btn{
+     background-color:green;
+     font-weight: bold;
+     
+ }
